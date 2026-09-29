@@ -513,6 +513,87 @@
       "tool": "https://pixtidy.com/vietnam-evisa-photo"
     },
     {
+      "id": "thailand-evisa",
+      "country": "TH",
+      "country_name": "Thailand",
+      "document": "e-Visa",
+      "print_size_mm": null,
+      "digital": {
+        "width_px": 600,
+        "height_px": 800,
+        "format": "jpeg",
+        "min_bytes": null,
+        "max_bytes": 3000000
+      },
+      "head_height_ratio": [
+        0.7,
+        0.8
+      ],
+      "head_height_official": true,
+      "eye_from_bottom_ratio": null,
+      "crown_from_top_ratio": null,
+      "background": {
+        "kind": "light",
+        "description": "Plain light-coloured background"
+      },
+      "infant_eyes_may_be_closed": false,
+      "rules": [
+        "JPG up to 3 MB, at least 160 pixels tall",
+        "Head takes up 70–80% of the photo",
+        "Eyes not covered by sunglasses, tinted lenses, frames or hair; no glare",
+        "Plain light-coloured background"
+      ],
+      "sources": [
+        {
+          "label": "Thai e-Visa (Ministry of Foreign Affairs)",
+          "url": "https://www.thaievisa.go.th/",
+          "verified": "2026-09-30"
+        }
+      ],
+      "tool": "https://pixtidy.com/thailand-evisa-photo"
+    },
+    {
+      "id": "australia-visa",
+      "country": "AU",
+      "country_name": "Australia",
+      "document": "Visa",
+      "print_size_mm": null,
+      "digital": {
+        "width_px": 1200,
+        "height_px": 1600,
+        "format": "jpeg",
+        "min_bytes": 71680,
+        "max_bytes": 3500000
+      },
+      "head_height_ratio": [
+        0.64,
+        0.78
+      ],
+      "head_height_official": false,
+      "eye_from_bottom_ratio": null,
+      "crown_from_top_ratio": null,
+      "background": {
+        "kind": "light",
+        "description": "Plain neutral or light grey background that contrasts with your face"
+      },
+      "infant_eyes_may_be_closed": false,
+      "rules": [
+        "JPEG between 70 KB and 3.5 MB, about 1200×1600 pixels",
+        "Unedited — do not remove background, moles, wrinkles, scars or red eyes",
+        "No glasses unless for medical reasons (clear lenses, no glare)",
+        "Religious head coverings allowed with the full face visible",
+        "Not a scan of a photo or a photo of a photo"
+      ],
+      "sources": [
+        {
+          "label": "Home Affairs: ImmiAccount photograph help",
+          "url": "https://immi.homeaffairs.gov.au/help-text/evidence/Pages/et-h0369.aspx",
+          "verified": "2026-09-30"
+        }
+      ],
+      "tool": "https://pixtidy.com/australia-visa-photo"
+    },
+    {
       "id": "nz-passport",
       "country": "NZ",
       "country_name": "New Zealand",
@@ -552,6 +633,50 @@
         }
       ],
       "tool": "https://pixtidy.com/nz-passport-photo"
+    },
+    {
+      "id": "nigeria-passport",
+      "country": "NG",
+      "country_name": "Nigeria",
+      "document": "Passport",
+      "print_size_mm": null,
+      "digital": {
+        "width_px": 600,
+        "height_px": 800,
+        "format": "jpeg",
+        "min_bytes": 72000,
+        "max_bytes": 2000000
+      },
+      "head_height_ratio": [
+        0.5,
+        0.69
+      ],
+      "head_height_official": true,
+      "eye_from_bottom_ratio": [
+        0.56,
+        0.69
+      ],
+      "crown_from_top_ratio": null,
+      "background": {
+        "kind": "white",
+        "description": "Plain white background"
+      },
+      "infant_eyes_may_be_closed": false,
+      "rules": [
+        "600×800 pixels, JPEG up to 2 MB",
+        "Head (top of hair to chin) 50–69% of the photo height; eyes 56–69% up from the bottom",
+        "Eyeglasses are not allowed",
+        "Plain white background, even lighting, no shadows",
+        "Do not cut out or replace the background with editing tools"
+      ],
+      "sources": [
+        {
+          "label": "Nigeria Immigration Service: passport portal",
+          "url": "https://passport.immigration.gov.ng/",
+          "verified": "2026-09-30"
+        }
+      ],
+      "tool": "https://pixtidy.com/nigeria-passport-photo"
     }
   ]
 }
