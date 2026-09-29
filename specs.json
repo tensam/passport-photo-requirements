@@ -1,0 +1,557 @@
+{
+  "updated": "2026-09-29",
+  "specs": [
+    {
+      "id": "us-passport",
+      "country": "US",
+      "country_name": "United States",
+      "document": "Passport",
+      "print_size_mm": {
+        "width": 50.8,
+        "height": 50.8
+      },
+      "digital": {
+        "width_px": 600,
+        "height_px": 600,
+        "format": "jpeg",
+        "min_bytes": null,
+        "max_bytes": null
+      },
+      "head_height_ratio": [
+        0.5,
+        0.69
+      ],
+      "head_height_official": true,
+      "eye_from_bottom_ratio": [
+        0.56,
+        0.69
+      ],
+      "crown_from_top_ratio": null,
+      "background": {
+        "kind": "white",
+        "description": "White or off-white, no shadows, texture or lines"
+      },
+      "infant_eyes_may_be_closed": false,
+      "rules": [
+        "Taken in the last 6 months",
+        "Neutral expression or natural smile, both eyes open, mouth closed",
+        "Face the camera directly, head not tilted",
+        "No eyeglasses (medical exception needs a signed doctor's note)",
+        "No hats or head coverings (religious/medical exceptions need a signed statement)",
+        "No headphones, uniforms or camouflage",
+        "Not edited with software, filters or AI"
+      ],
+      "sources": [
+        {
+          "label": "State Dept: passport photos",
+          "url": "https://travel.state.gov/content/travel/en/passports/how-apply/photos.html",
+          "verified": "2026-09-27"
+        },
+        {
+          "label": "State Dept: photo composition template",
+          "url": "https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/photos/photo-composition-template.html",
+          "verified": "2026-09-27"
+        }
+      ],
+      "tool": "https://pixtidy.com/us-passport-photo"
+    },
+    {
+      "id": "us-passport-renewal",
+      "country": "US",
+      "country_name": "United States",
+      "document": "Passport Online Renewal",
+      "print_size_mm": null,
+      "digital": {
+        "width_px": 1200,
+        "height_px": 1200,
+        "format": "jpeg",
+        "min_bytes": 55296,
+        "max_bytes": 10000000
+      },
+      "head_height_ratio": [
+        0.45,
+        0.6
+      ],
+      "head_height_official": false,
+      "eye_from_bottom_ratio": null,
+      "crown_from_top_ratio": null,
+      "background": {
+        "kind": "white",
+        "description": "White or off-white, plain, no shadows, texture or lines"
+      },
+      "infant_eyes_may_be_closed": false,
+      "rules": [
+        "Digital file 54 KB – 10 MB (we export JPG)",
+        "Head and shoulders centred; leave a little room around your face",
+        "Neutral expression or natural smile — no teeth showing",
+        "No glasses; no hat unless for religious or medical reasons",
+        "Have someone else take it; no filters, retouching or AI"
+      ],
+      "sources": [
+        {
+          "label": "State Dept: uploading a digital photo",
+          "url": "https://travel.state.gov/content/travel/en/passports/how-apply/online-renewal-photo.html",
+          "verified": "2026-09-30"
+        }
+      ],
+      "tool": "https://pixtidy.com/us-passport-renewal-photo"
+    },
+    {
+      "id": "us-visa",
+      "country": "US",
+      "country_name": "United States",
+      "document": "Visa (DS-160)",
+      "print_size_mm": {
+        "width": 50.8,
+        "height": 50.8
+      },
+      "digital": {
+        "width_px": 600,
+        "height_px": 600,
+        "format": "jpeg",
+        "min_bytes": 54000,
+        "max_bytes": 240000
+      },
+      "head_height_ratio": [
+        0.5,
+        0.69
+      ],
+      "head_height_official": true,
+      "eye_from_bottom_ratio": [
+        0.56,
+        0.69
+      ],
+      "crown_from_top_ratio": null,
+      "background": {
+        "kind": "white",
+        "description": "White or off-white, no shadows, texture or lines"
+      },
+      "infant_eyes_may_be_closed": false,
+      "rules": [
+        "Taken in the last 6 months",
+        "Neutral expression or natural smile, both eyes open, mouth closed",
+        "Face the camera directly, head not tilted",
+        "No eyeglasses (medical exception needs a signed doctor's note)",
+        "No hats or head coverings (religious/medical exceptions need a signed statement)",
+        "No headphones, uniforms or camouflage",
+        "Not edited with software, filters or AI"
+      ],
+      "sources": [
+        {
+          "label": "State Dept: digital image requirements",
+          "url": "https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/photos/digital-image-requirements.html",
+          "verified": "2026-09-27"
+        },
+        {
+          "label": "State Dept: photo composition template",
+          "url": "https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/photos/photo-composition-template.html",
+          "verified": "2026-09-27"
+        }
+      ],
+      "tool": "https://pixtidy.com/us-visa-photo"
+    },
+    {
+      "id": "us-green-card",
+      "country": "US",
+      "country_name": "United States",
+      "document": "Green Card (USCIS)",
+      "print_size_mm": {
+        "width": 50.8,
+        "height": 50.8
+      },
+      "digital": {
+        "width_px": 600,
+        "height_px": 600,
+        "format": "jpeg",
+        "min_bytes": null,
+        "max_bytes": null
+      },
+      "head_height_ratio": [
+        0.5,
+        0.688
+      ],
+      "head_height_official": true,
+      "eye_from_bottom_ratio": [
+        0.563,
+        0.688
+      ],
+      "crown_from_top_ratio": null,
+      "background": {
+        "kind": "white",
+        "description": "White to off-white, no shadows"
+      },
+      "infant_eyes_may_be_closed": false,
+      "rules": [
+        "Two identical colour photos, taken recently",
+        "Printed on thin glossy photo paper, unmounted and unretouched",
+        "Head bare unless you wear a head covering for religious reasons",
+        "Face the camera, neutral expression, eyes open",
+        "Also used for I-765, I-131 and N-400 (applicants abroad)"
+      ],
+      "sources": [
+        {
+          "label": "USCIS Form I-485 instructions",
+          "url": "https://www.uscis.gov/sites/default/files/document/forms/i-485instr.pdf",
+          "verified": "2026-09-30"
+        },
+        {
+          "label": "USCIS Form N-400 instructions",
+          "url": "https://www.uscis.gov/sites/default/files/document/forms/n-400instr.pdf",
+          "verified": "2026-09-30"
+        }
+      ],
+      "tool": "https://pixtidy.com/us-green-card-photo"
+    },
+    {
+      "id": "us-baby-passport",
+      "country": "US",
+      "country_name": "United States",
+      "document": "Baby Passport",
+      "print_size_mm": {
+        "width": 50.8,
+        "height": 50.8
+      },
+      "digital": {
+        "width_px": 600,
+        "height_px": 600,
+        "format": "jpeg",
+        "min_bytes": null,
+        "max_bytes": null
+      },
+      "head_height_ratio": [
+        0.5,
+        0.69
+      ],
+      "head_height_official": true,
+      "eye_from_bottom_ratio": [
+        0.56,
+        0.69
+      ],
+      "crown_from_top_ratio": null,
+      "background": {
+        "kind": "white",
+        "description": "White or off-white, no shadows, texture or lines"
+      },
+      "infant_eyes_may_be_closed": true,
+      "rules": [
+        "Lay the baby on a plain white or off-white sheet, or cover a car seat with one",
+        "It is okay if a baby's eyes are not entirely open; older children must have eyes open",
+        "No one else in the photo, and no hands or pacifier covering the face",
+        "No shadows on the baby's face",
+        "Not edited with software, filters or AI"
+      ],
+      "sources": [
+        {
+          "label": "State Dept: passport photos (children)",
+          "url": "https://travel.state.gov/content/travel/en/passports/how-apply/photos.html",
+          "verified": "2026-09-30"
+        }
+      ],
+      "tool": "https://pixtidy.com/us-baby-passport-photo"
+    },
+    {
+      "id": "uk-visa",
+      "country": "GB",
+      "country_name": "UK",
+      "document": "Visa",
+      "print_size_mm": null,
+      "digital": {
+        "width_px": 1200,
+        "height_px": 1500,
+        "format": "jpeg",
+        "min_bytes": 51200,
+        "max_bytes": 6000000
+      },
+      "head_height_ratio": [
+        0.4,
+        0.55
+      ],
+      "head_height_official": false,
+      "eye_from_bottom_ratio": null,
+      "crown_from_top_ratio": null,
+      "background": {
+        "kind": "light",
+        "description": "Plain light-coloured background"
+      },
+      "infant_eyes_may_be_closed": false,
+      "rules": [
+        "At least 600×750 pixels, JPG, 50 KB to 6 MB",
+        "Show your head, shoulders and upper body",
+        "Plain expression, mouth closed, eyes open",
+        "Avoid glasses; never sunglasses or tinted lenses",
+        "No head covering unless for religious or medical reasons",
+        "Not altered by software or filters, not mirrored or flipped"
+      ],
+      "sources": [
+        {
+          "label": "GOV.UK: photos for visa applications",
+          "url": "https://www.gov.uk/guidance/how-to-take-a-photo-for-a-visa-application-or-permission",
+          "verified": "2026-09-30"
+        }
+      ],
+      "tool": "https://pixtidy.com/uk-visa-photo"
+    },
+    {
+      "id": "india-oci",
+      "country": "IN",
+      "country_name": "India",
+      "document": "OCI Card",
+      "print_size_mm": null,
+      "digital": {
+        "width_px": 600,
+        "height_px": 600,
+        "format": "jpeg",
+        "min_bytes": null,
+        "max_bytes": 200000
+      },
+      "head_height_ratio": [
+        0.5,
+        0.69
+      ],
+      "head_height_official": true,
+      "eye_from_bottom_ratio": null,
+      "crown_from_top_ratio": null,
+      "background": {
+        "kind": "light-not-white",
+        "description": "Plain light colour — not white, no border"
+      },
+      "infant_eyes_may_be_closed": false,
+      "rules": [
+        "Square photo, 200×200 to 900×900 pixels, JPEG up to 200 KB",
+        "Plain light-coloured background that is not white",
+        "Face the camera, full face visible, natural expression",
+        "No glare on glasses and no tinted lenses",
+        "Head coverings only for religious reasons, face fully visible",
+        "No border around the photo"
+      ],
+      "sources": [
+        {
+          "label": "OCI Services FAQ",
+          "url": "https://ociservices.gov.in/onlineOCI/faq",
+          "verified": "2026-09-27"
+        }
+      ],
+      "tool": "https://pixtidy.com/india-oci-photo"
+    },
+    {
+      "id": "india-evisa",
+      "country": "IN",
+      "country_name": "India",
+      "document": "e-Visa",
+      "print_size_mm": null,
+      "digital": {
+        "width_px": 600,
+        "height_px": 600,
+        "format": "jpeg",
+        "min_bytes": 10240,
+        "max_bytes": 1000000
+      },
+      "head_height_ratio": [
+        0.5,
+        0.69
+      ],
+      "head_height_official": false,
+      "eye_from_bottom_ratio": null,
+      "crown_from_top_ratio": null,
+      "background": {
+        "kind": "light",
+        "description": "Plain light-coloured or white background, no shadows"
+      },
+      "infant_eyes_may_be_closed": false,
+      "rules": [
+        "Square photo (height equals width), JPEG, 10 KB – 1 MB",
+        "Full face, front view, eyes open, no spectacles",
+        "Full head from top of hair to bottom of chin, centred",
+        "Plain light-coloured or white background, no shadows, no border"
+      ],
+      "sources": [
+        {
+          "label": "Indian Visa Online: e-Visa instructions",
+          "url": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+          "verified": "2026-09-30"
+        }
+      ],
+      "tool": "https://pixtidy.com/india-evisa-photo"
+    },
+    {
+      "id": "schengen-visa",
+      "country": "EU",
+      "country_name": "Schengen",
+      "document": "Visa",
+      "print_size_mm": {
+        "width": 35,
+        "height": 45
+      },
+      "digital": {
+        "width_px": 827,
+        "height_px": 1063,
+        "format": "jpeg",
+        "min_bytes": null,
+        "max_bytes": null
+      },
+      "head_height_ratio": [
+        0.711,
+        0.8
+      ],
+      "head_height_official": true,
+      "eye_from_bottom_ratio": null,
+      "crown_from_top_ratio": null,
+      "background": {
+        "kind": "light",
+        "description": "Plain, light and even (neutral grey is ideal)"
+      },
+      "infant_eyes_may_be_closed": false,
+      "rules": [
+        "Neutral expression, mouth closed, looking straight at the camera",
+        "Glasses: no glare, no tinted lenses, frames not covering the eyes",
+        "Head coverings only for religious reasons",
+        "Face centred, sharp and evenly lit",
+        "Plain light background with no shadows"
+      ],
+      "sources": [
+        {
+          "label": "European Commission: ICAO photo guidelines",
+          "url": "https://home-affairs.ec.europa.eu/document/download/5bb16566-c8c2-4afb-b038-530f488cb72a_en?filename=icao_photograph_guidelines_en.pdf",
+          "verified": "2026-09-27"
+        },
+        {
+          "label": "German Foreign Office: visa photo instructions",
+          "url": "https://kuwait.diplo.de/resource/blob/2079290/153d98a9ab09f4702a0d796b5000a6f6/pdf-bio-photo-data.pdf",
+          "verified": "2026-09-27"
+        }
+      ],
+      "tool": "https://pixtidy.com/schengen-visa-photo"
+    },
+    {
+      "id": "china-visa",
+      "country": "CN",
+      "country_name": "China",
+      "document": "Visa",
+      "print_size_mm": {
+        "width": 33,
+        "height": 48
+      },
+      "digital": {
+        "width_px": 354,
+        "height_px": 472,
+        "format": "jpeg",
+        "min_bytes": 40960,
+        "max_bytes": 120000
+      },
+      "head_height_ratio": [
+        0.583,
+        0.688
+      ],
+      "head_height_official": true,
+      "eye_from_bottom_ratio": [
+        0.55,
+        0.8
+      ],
+      "crown_from_top_ratio": [
+        0.03,
+        0.14
+      ],
+      "background": {
+        "kind": "white",
+        "description": "White or close to white, no border"
+      },
+      "infant_eyes_may_be_closed": false,
+      "rules": [
+        "Taken in the last 6 months",
+        "Neutral expression, eyes open, mouth closed, ears visible",
+        "Glasses only with clear lenses and no glare",
+        "Head coverings only for religious reasons",
+        "No jewellery, hands, toys or other people in the photo",
+        "White or near-white background, no border"
+      ],
+      "sources": [
+        {
+          "label": "Chinese Embassy: visa photo requirements",
+          "url": "https://us.china-embassy.gov.cn/eng/lsfw/zj/qz2021/201612/t20161206_4410998.htm",
+          "verified": "2026-09-27"
+        }
+      ],
+      "tool": "https://pixtidy.com/china-visa-photo"
+    },
+    {
+      "id": "vietnam-evisa",
+      "country": "VN",
+      "country_name": "Vietnam",
+      "document": "e-Visa",
+      "print_size_mm": null,
+      "digital": {
+        "width_px": 600,
+        "height_px": 900,
+        "format": "jpeg",
+        "min_bytes": null,
+        "max_bytes": 2000000
+      },
+      "head_height_ratio": [
+        0.45,
+        0.6
+      ],
+      "head_height_official": false,
+      "eye_from_bottom_ratio": null,
+      "crown_from_top_ratio": null,
+      "background": {
+        "kind": "white",
+        "description": "White background"
+      },
+      "infant_eyes_may_be_closed": false,
+      "rules": [
+        "4×6 cm portrait, JPG, under 2 MB",
+        "White background, face straight to the camera",
+        "No glasses, no hat"
+      ],
+      "sources": [
+        {
+          "label": "Vietnam e-Visa portal",
+          "url": "https://evisa.gov.vn/e-visa/foreigners",
+          "verified": "2026-09-30"
+        }
+      ],
+      "tool": "https://pixtidy.com/vietnam-evisa-photo"
+    },
+    {
+      "id": "nz-passport",
+      "country": "NZ",
+      "country_name": "New Zealand",
+      "document": "Passport",
+      "print_size_mm": null,
+      "digital": {
+        "width_px": 1200,
+        "height_px": 1600,
+        "format": "jpeg",
+        "min_bytes": 256000,
+        "max_bytes": 5000000
+      },
+      "head_height_ratio": [
+        0.5,
+        0.65
+      ],
+      "head_height_official": false,
+      "eye_from_bottom_ratio": null,
+      "crown_from_top_ratio": null,
+      "background": {
+        "kind": "light",
+        "description": "Plain, light-coloured background"
+      },
+      "infant_eyes_may_be_closed": false,
+      "rules": [
+        "3:4 ratio, 900×1200 to 4500×6000 pixels, JPG 250 KB – 5 MB",
+        "Space above the head and on both sides; include shoulders and upper chest",
+        "Neutral expression (no smile), mouth closed, eyes open",
+        "Clear prescription glasses allowed without glare; no sunglasses",
+        "Taken in the last 6 months; not edited, filtered or changed with AI"
+      ],
+      "sources": [
+        {
+          "label": "NZ Passports: passport photos",
+          "url": "https://www.passports.govt.nz/passport-photos",
+          "verified": "2026-09-30"
+        }
+      ],
+      "tool": "https://pixtidy.com/nz-passport-photo"
+    }
+  ]
+}
