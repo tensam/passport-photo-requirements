@@ -1,6 +1,6 @@
 # Passport & visa photo requirements (machine-readable)
 
-Official photo specifications for 18 passport and visa documents, as structured JSON: print size, digital pixel size, file-size window, head height and eye position (as a fraction of photo height), background rule, and the official source for each.
+Official photo specifications for 18 passport and visa documents, as structured JSON: print size, file-size window, head height and eye position (as a fraction of photo height), background rule, the official rules as quoted text, and the official source for each. `pixtidy_output` is the pixel size pixtidy exports within the official limits; it is not an official value.
 
 Maintained by [pixtidy](https://pixtidy.com) — a browser-based passport & visa photo maker that checks photos against these rules. Every value was taken from the linked government page; where an authority publishes no number, the field is marked as not official.
 
@@ -15,7 +15,7 @@ Prefer a human-readable version? The same requirements are in one table at [pixt
 - **No retouching or AI edits**, because officials reject altered photos. It only crops, levels and resizes.
 - Covers all documents in the table below (US passport, DS-160 visa, green card, Schengen 35×45 mm, UK visa, India OCI, China visa and more), in English, Spanish, Portuguese and French, with a 4×6 print sheet.
 
-| Document | Print | Digital (px) | File size | Head height | Eye line from bottom | Background | Source |
+| Document | Print | pixtidy output (px)† | File size | Head height | Eye line from bottom | Background | Source |
 |---|---|---|---|---|---|---|---|
 | United States Passport | 50.8×50.8 mm | 600×600 | — | 50–69% | 56–69% | white | [source](https://travel.state.gov/content/travel/en/passports/how-apply/photos.html) |
 | United States Passport Online Renewal | — | 1200×1200 | 55–10000 KB | 45–60%* | — | white | [source](https://travel.state.gov/content/travel/en/passports/how-apply/online-renewal-photo.html) |

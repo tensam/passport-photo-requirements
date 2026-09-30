@@ -11,8 +11,6 @@
         "height": 50.8
       },
       "digital": {
-        "width_px": 600,
-        "height_px": 600,
         "format": "jpeg",
         "min_bytes": null,
         "max_bytes": null
@@ -53,6 +51,10 @@
           "verified": "2026-09-27"
         }
       ],
+      "pixtidy_output": {
+        "width_px": 600,
+        "height_px": 600
+      },
       "tool": "https://pixtidy.com/us-passport-photo"
     },
     {
@@ -62,8 +64,6 @@
       "document": "Passport Online Renewal",
       "print_size_mm": null,
       "digital": {
-        "width_px": 1200,
-        "height_px": 1200,
         "format": "jpeg",
         "min_bytes": 55296,
         "max_bytes": 10000000
@@ -94,6 +94,10 @@
           "verified": "2026-09-30"
         }
       ],
+      "pixtidy_output": {
+        "width_px": 1200,
+        "height_px": 1200
+      },
       "tool": "https://pixtidy.com/us-passport-renewal-photo"
     },
     {
@@ -106,8 +110,6 @@
         "height": 50.8
       },
       "digital": {
-        "width_px": 600,
-        "height_px": 600,
         "format": "jpeg",
         "min_bytes": 54000,
         "max_bytes": 240000
@@ -148,6 +150,10 @@
           "verified": "2026-09-27"
         }
       ],
+      "pixtidy_output": {
+        "width_px": 600,
+        "height_px": 600
+      },
       "tool": "https://pixtidy.com/us-visa-photo"
     },
     {
@@ -160,8 +166,6 @@
         "height": 50.8
       },
       "digital": {
-        "width_px": 600,
-        "height_px": 600,
         "format": "jpeg",
         "min_bytes": null,
         "max_bytes": null
@@ -200,6 +204,10 @@
           "verified": "2026-09-30"
         }
       ],
+      "pixtidy_output": {
+        "width_px": 600,
+        "height_px": 600
+      },
       "tool": "https://pixtidy.com/us-green-card-photo"
     },
     {
@@ -212,8 +220,6 @@
         "height": 50.8
       },
       "digital": {
-        "width_px": 600,
-        "height_px": 600,
         "format": "jpeg",
         "min_bytes": null,
         "max_bytes": null
@@ -247,6 +253,10 @@
           "verified": "2026-09-30"
         }
       ],
+      "pixtidy_output": {
+        "width_px": 600,
+        "height_px": 600
+      },
       "tool": "https://pixtidy.com/us-baby-passport-photo"
     },
     {
@@ -256,8 +266,6 @@
       "document": "Visa",
       "print_size_mm": null,
       "digital": {
-        "width_px": 1200,
-        "height_px": 1500,
         "format": "jpeg",
         "min_bytes": 51200,
         "max_bytes": 6000000
@@ -289,6 +297,10 @@
           "verified": "2026-09-30"
         }
       ],
+      "pixtidy_output": {
+        "width_px": 1200,
+        "height_px": 1500
+      },
       "tool": "https://pixtidy.com/uk-visa-photo"
     },
     {
@@ -298,8 +310,6 @@
       "document": "OCI Card",
       "print_size_mm": null,
       "digital": {
-        "width_px": 600,
-        "height_px": 600,
         "format": "jpeg",
         "min_bytes": null,
         "max_bytes": 200000
@@ -331,6 +341,10 @@
           "verified": "2026-09-27"
         }
       ],
+      "pixtidy_output": {
+        "width_px": 600,
+        "height_px": 600
+      },
       "tool": "https://pixtidy.com/india-oci-photo"
     },
     {
@@ -340,8 +354,6 @@
       "document": "e-Visa",
       "print_size_mm": null,
       "digital": {
-        "width_px": 600,
-        "height_px": 600,
         "format": "jpeg",
         "min_bytes": 10240,
         "max_bytes": 1000000
@@ -371,6 +383,10 @@
           "verified": "2026-09-30"
         }
       ],
+      "pixtidy_output": {
+        "width_px": 600,
+        "height_px": 600
+      },
       "tool": "https://pixtidy.com/india-evisa-photo"
     },
     {
@@ -383,8 +399,6 @@
         "height": 45
       },
       "digital": {
-        "width_px": 827,
-        "height_px": 1063,
         "format": "jpeg",
         "min_bytes": null,
         "max_bytes": null
@@ -420,6 +434,10 @@
           "verified": "2026-09-27"
         }
       ],
+      "pixtidy_output": {
+        "width_px": 827,
+        "height_px": 1063
+      },
       "tool": "https://pixtidy.com/schengen-visa-photo"
     },
     {
@@ -432,8 +450,6 @@
         "height": 48
       },
       "digital": {
-        "width_px": 354,
-        "height_px": 472,
         "format": "jpeg",
         "min_bytes": 40960,
         "max_bytes": 120000
@@ -471,6 +487,10 @@
           "verified": "2026-09-27"
         }
       ],
+      "pixtidy_output": {
+        "width_px": 354,
+        "height_px": 472
+      },
       "tool": "https://pixtidy.com/china-visa-photo"
     },
     {
@@ -480,8 +500,6 @@
       "document": "e-Visa",
       "print_size_mm": null,
       "digital": {
-        "width_px": 600,
-        "height_px": 900,
         "format": "jpeg",
         "min_bytes": null,
         "max_bytes": 2000000
@@ -510,6 +528,10 @@
           "verified": "2026-09-30"
         }
       ],
+      "pixtidy_output": {
+        "width_px": 600,
+        "height_px": 900
+      },
       "tool": "https://pixtidy.com/vietnam-evisa-photo"
     },
     {
@@ -519,8 +541,6 @@
       "document": "e-Visa",
       "print_size_mm": null,
       "digital": {
-        "width_px": 600,
-        "height_px": 800,
         "format": "jpeg",
         "min_bytes": null,
         "max_bytes": 3000000
@@ -550,6 +570,10 @@
           "verified": "2026-09-30"
         }
       ],
+      "pixtidy_output": {
+        "width_px": 600,
+        "height_px": 800
+      },
       "tool": "https://pixtidy.com/thailand-evisa-photo"
     },
     {
@@ -559,8 +583,6 @@
       "document": "Visa",
       "print_size_mm": null,
       "digital": {
-        "width_px": 1200,
-        "height_px": 1600,
         "format": "jpeg",
         "min_bytes": 71680,
         "max_bytes": 3500000
@@ -591,6 +613,10 @@
           "verified": "2026-09-30"
         }
       ],
+      "pixtidy_output": {
+        "width_px": 1200,
+        "height_px": 1600
+      },
       "tool": "https://pixtidy.com/australia-visa-photo"
     },
     {
@@ -600,8 +626,6 @@
       "document": "Passport",
       "print_size_mm": null,
       "digital": {
-        "width_px": 1200,
-        "height_px": 1600,
         "format": "jpeg",
         "min_bytes": 256000,
         "max_bytes": 5000000
@@ -632,6 +656,10 @@
           "verified": "2026-09-30"
         }
       ],
+      "pixtidy_output": {
+        "width_px": 1200,
+        "height_px": 1600
+      },
       "tool": "https://pixtidy.com/nz-passport-photo"
     },
     {
@@ -641,8 +669,6 @@
       "document": "Passport",
       "print_size_mm": null,
       "digital": {
-        "width_px": 600,
-        "height_px": 800,
         "format": "jpeg",
         "min_bytes": 72000,
         "max_bytes": 2000000
@@ -676,6 +702,10 @@
           "verified": "2026-09-30"
         }
       ],
+      "pixtidy_output": {
+        "width_px": 600,
+        "height_px": 800
+      },
       "tool": "https://pixtidy.com/nigeria-passport-photo"
     },
     {
@@ -688,8 +718,6 @@
         "height": 45
       },
       "digital": {
-        "width_px": 413,
-        "height_px": 531,
         "format": "jpeg",
         "min_bytes": null,
         "max_bytes": 60000
@@ -720,6 +748,10 @@
           "verified": "2026-09-30"
         }
       ],
+      "pixtidy_output": {
+        "width_px": 413,
+        "height_px": 531
+      },
       "tool": "https://pixtidy.com/pakistan-visa-photo"
     },
     {
@@ -729,8 +761,6 @@
       "document": "e-Visa",
       "print_size_mm": null,
       "digital": {
-        "width_px": 413,
-        "height_px": 531,
         "format": "jpeg",
         "min_bytes": null,
         "max_bytes": 500000
@@ -761,6 +791,10 @@
           "verified": "2026-09-30"
         }
       ],
+      "pixtidy_output": {
+        "width_px": 413,
+        "height_px": 531
+      },
       "tool": "https://pixtidy.com/tanzania-evisa-photo"
     },
     {
@@ -773,8 +807,6 @@
         "height": 50.8
       },
       "digital": {
-        "width_px": 600,
-        "height_px": 600,
         "format": "jpeg",
         "min_bytes": null,
         "max_bytes": 2000000
@@ -805,6 +837,10 @@
           "verified": "2026-09-30"
         }
       ],
+      "pixtidy_output": {
+        "width_px": 600,
+        "height_px": 600
+      },
       "tool": "https://pixtidy.com/ethiopia-evisa-photo"
     }
   ]
