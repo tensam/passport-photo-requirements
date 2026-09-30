@@ -761,6 +761,55 @@
       "tool": "https://pixtidy.com/nz-passport-photo"
     },
     {
+      "id": "nz-eta",
+      "country": "NZ",
+      "country_name": "New Zealand",
+      "document": "NZeTA",
+      "print_size_mm": null,
+      "digital": {
+        "format": "jpeg",
+        "min_bytes": 524288,
+        "max_bytes": 3000000
+      },
+      "head_height_ratio": [
+        0.7,
+        0.8
+      ],
+      "head_height_official": true,
+      "eye_from_bottom_ratio": null,
+      "crown_from_top_ratio": null,
+      "background": {
+        "kind": "light-not-white",
+        "description": "Plain, light-coloured background, not white (light grey works well)"
+      },
+      "infant_eyes_may_be_closed": false,
+      "rules": [
+        "JPG, 3:4 portrait, 900×1200 to 2250×3000 pixels, 500 KB to 3 MB",
+        "Face covers 70–80% of the image, centred, looking straight at the camera",
+        "Neutral expression, mouth closed, eyes open; hair not covering face or ears",
+        "Prescription glasses allowed if clear, untinted and without glare",
+        "Taken in the last 6 months, by someone else if possible (selfies only in the NZeTA app)",
+        "No filters, beautification, AI edits or brightness/contrast changes"
+      ],
+      "sources": [
+        {
+          "label": "Immigration NZ: acceptable photos for a visa or NZeTA",
+          "url": "https://www.immigration.govt.nz/process-to-apply/applying-for-a-visa/applying-online/uploading-documents-and-photos/visa-and-nzeta-photos/",
+          "verified": "2026-10-01"
+        },
+        {
+          "label": "Immigration NZ: fixing errors when uploading a photo",
+          "url": "https://www.immigration.govt.nz/process-to-apply/applying-for-a-visa/applying-online/uploading-documents-and-photos/fixing-errors-when-uploading-a-photo/",
+          "verified": "2026-10-01"
+        }
+      ],
+      "pixtidy_output": {
+        "width_px": 2100,
+        "height_px": 2800
+      },
+      "tool": "https://pixtidy.com/nz-eta-photo"
+    },
+    {
       "id": "nigeria-passport",
       "country": "NG",
       "country_name": "Nigeria",
