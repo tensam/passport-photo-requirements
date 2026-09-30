@@ -38,6 +38,8 @@ Prefer a human-readable version? The same requirements are in one table at [pixt
 
 \* No official number — recommended framing (head and shoulders visible).
 
+† Not an official value: the pixel size pixtidy exports, chosen inside the official limits. The official pixel rules are quoted in each spec's `rules`.
+
 ## Use
 
 ```js
