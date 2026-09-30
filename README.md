@@ -4,6 +4,8 @@ Official photo specifications for 18 passport and visa documents, as structured 
 
 Maintained by [pixtidy](https://pixtidy.com) — a browser-based passport & visa photo maker that checks photos against these rules. Every value was taken from the linked government page; where an authority publishes no number, the field is marked as not official.
 
+Prefer a human-readable version? The same requirements are in one table at [pixtidy.com/photo-requirements](https://pixtidy.com/photo-requirements).
+
 ## Looking for a tool rather than data?
 
 [pixtidy](https://pixtidy.com) uses exactly this dataset:
