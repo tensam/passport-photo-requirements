@@ -4,6 +4,15 @@ Official photo specifications for 18 passport and visa documents, as structured 
 
 Maintained by [pixtidy](https://pixtidy.com) — a browser-based passport & visa photo maker that checks photos against these rules. Every value was taken from the linked government page; where an authority publishes no number, the field is marked as not official.
 
+## Looking for a tool rather than data?
+
+[pixtidy](https://pixtidy.com) uses exactly this dataset:
+
+- **Your photo is never uploaded.** Face detection (MediaPipe) and cropping run entirely in the browser; nothing is sent to a server.
+- **Checks every rule before you pay:** head height, eye line, background colour and evenness, lighting, focus, eyes open, mouth closed, and the file-size window (for example 54–240 KB for a US DS-160 photo).
+- **No retouching or AI edits**, because officials reject altered photos. It only crops, levels and resizes.
+- Covers all documents in the table below (US passport, DS-160 visa, green card, Schengen 35×45 mm, UK visa, India OCI, China visa and more), in English, Spanish, Portuguese and French, with a 4×6 print sheet.
+
 | Document | Print | Digital (px) | File size | Head height | Eye line from bottom | Background | Source |
 |---|---|---|---|---|---|---|---|
 | United States Passport | 50.8×50.8 mm | 600×600 | — | 50–69% | 56–69% | white | [source](https://travel.state.gov/content/travel/en/passports/how-apply/photos.html) |
