@@ -1,6 +1,6 @@
 # Passport & visa photo requirements (machine-readable)
 
-Official photo specifications for 19 passport and visa documents, as structured JSON: print size, file-size window, head height and eye position (as a fraction of photo height), background rule, the official rules as quoted text, and the official source for each. `pixtidy_output` is the pixel size pixtidy exports within the official limits; it is not an official value.
+Official photo specifications for 20 passport and visa documents, as structured JSON: print size, file-size window, head height and eye position (as a fraction of photo height), background rule, the official rules as quoted text, and the official source for each. `pixtidy_output` is the pixel size pixtidy exports within the official limits; it is not an official value.
 
 Maintained by [pixtidy](https://pixtidy.com) — a browser-based passport & visa photo maker that checks photos against these rules. Every value was taken from the linked government page; where an authority publishes no number, the field is marked as not official.
 
@@ -31,6 +31,7 @@ Prefer a human-readable version? The same requirements are in one table at [pixt
 | Vietnam e-Visa | — | 600×900 | ≤2000 KB | 45–60%* | — | white | [source](https://evisa.gov.vn/e-visa/foreigners) |
 | Thailand e-Visa | — | 600×800 | ≤3000 KB | 70–80% | — | light | [source](https://www.thaievisa.go.th/) |
 | Australia Visa | — | 1200×1600 | 72–3500 KB | 64–78%* | — | light | [source](https://immi.homeaffairs.gov.au/help-text/evidence/Pages/et-h0369.aspx) |
+| Brazil e-Visa | 50.8×50.8 mm | 600×600 | — | 50–69%* | — | white | [source](https://www.gov.br/mre/pt-br/consulado-miami/information-about-visas-in-english/electronic-visitor-visa-e-visa) |
 | New Zealand Passport | — | 1200×1600 | 256–5000 KB | 50–65%* | — | light | [source](https://www.passports.govt.nz/passport-photos) |
 | Nigeria Passport | — | 600×800 | 72–2000 KB | 50–69% | 56–69% | white | [source](https://passport.immigration.gov.ng/) |
 | Pakistan Visa | 35×45 mm | 413×531 | ≤60 KB | 70–80% | — | white | [source](https://visa.nadra.gov.pk/download/photograph-guidelines/) |

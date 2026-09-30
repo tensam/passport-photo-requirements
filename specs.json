@@ -669,6 +669,55 @@
       "tool": "https://pixtidy.com/australia-visa-photo"
     },
     {
+      "id": "brazil-evisa",
+      "country": "BR",
+      "country_name": "Brazil",
+      "document": "e-Visa",
+      "print_size_mm": {
+        "width": 50.8,
+        "height": 50.8
+      },
+      "digital": {
+        "format": "jpeg",
+        "min_bytes": null,
+        "max_bytes": null
+      },
+      "head_height_ratio": [
+        0.5,
+        0.69
+      ],
+      "head_height_official": false,
+      "eye_from_bottom_ratio": null,
+      "crown_from_top_ratio": null,
+      "background": {
+        "kind": "white",
+        "description": "White background"
+      },
+      "infant_eyes_may_be_closed": false,
+      "rules": [
+        "Passport-style photo, 2 × 2 inches, white background",
+        "Upload a digital copy with the online application; the Chicago consulate also asks for a printed copy on photo-quality paper",
+        "Follow the ICAO photograph guidelines: full face, looking at the camera, neutral expression, eyes open"
+      ],
+      "sources": [
+        {
+          "label": "Consulate General of Brazil in Miami: e-Visa requirements",
+          "url": "https://www.gov.br/mre/pt-br/consulado-miami/information-about-visas-in-english/electronic-visitor-visa-e-visa",
+          "verified": "2026-10-01"
+        },
+        {
+          "label": "Consulate General of Brazil in Chicago: e-Visa",
+          "url": "https://www.gov.br/mre/pt-br/consulado-chicago/Visas/types-of-visa-1/e-visa",
+          "verified": "2026-10-01"
+        }
+      ],
+      "pixtidy_output": {
+        "width_px": 600,
+        "height_px": 600
+      },
+      "tool": "https://pixtidy.com/brazil-evisa-photo"
+    },
+    {
       "id": "nz-passport",
       "country": "NZ",
       "country_name": "New Zealand",
