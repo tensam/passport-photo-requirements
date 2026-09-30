@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29",
+  "updated": "2026-09-30",
   "specs": [
     {
       "id": "us-passport",
@@ -677,6 +677,135 @@
         }
       ],
       "tool": "https://pixtidy.com/nigeria-passport-photo"
+    },
+    {
+      "id": "pakistan-visa",
+      "country": "PK",
+      "country_name": "Pakistan",
+      "document": "Visa",
+      "print_size_mm": {
+        "width": 35,
+        "height": 45
+      },
+      "digital": {
+        "width_px": 413,
+        "height_px": 531,
+        "format": "jpeg",
+        "min_bytes": null,
+        "max_bytes": 60000
+      },
+      "head_height_ratio": [
+        0.7,
+        0.8
+      ],
+      "head_height_official": true,
+      "eye_from_bottom_ratio": null,
+      "crown_from_top_ratio": null,
+      "background": {
+        "kind": "white",
+        "description": "Plain white background"
+      },
+      "infant_eyes_may_be_closed": false,
+      "rules": [
+        "35×45 mm; face takes up 70–80% of the photo",
+        "Plain white background, no shadows or red eye",
+        "No glasses; neutral expression with mouth closed",
+        "Head coverings allowed if chin, forehead and both face edges are visible",
+        "JPEG kept under 60 KB (the stricter of NADRA's two published limits)"
+      ],
+      "sources": [
+        {
+          "label": "NADRA: photograph guidelines",
+          "url": "https://visa.nadra.gov.pk/download/photograph-guidelines/",
+          "verified": "2026-09-30"
+        }
+      ],
+      "tool": "https://pixtidy.com/pakistan-visa-photo"
+    },
+    {
+      "id": "tanzania-evisa",
+      "country": "TZ",
+      "country_name": "Tanzania",
+      "document": "e-Visa",
+      "print_size_mm": null,
+      "digital": {
+        "width_px": 413,
+        "height_px": 531,
+        "format": "jpeg",
+        "min_bytes": null,
+        "max_bytes": 500000
+      },
+      "head_height_ratio": [
+        0.6,
+        0.75
+      ],
+      "head_height_official": false,
+      "eye_from_bottom_ratio": null,
+      "crown_from_top_ratio": null,
+      "background": {
+        "kind": "light",
+        "description": "Plain background (white or light is safest)"
+      },
+      "infant_eyes_may_be_closed": false,
+      "rules": [
+        "Colour photo no larger than 45×35 mm, JPG up to 500 KB",
+        "Full head visible from top of hair to bottom of chin",
+        "Plain background; natural expression",
+        "Glasses allowed if you normally wear them",
+        "Head coverings only for religious reasons, with chin, forehead and face edges visible"
+      ],
+      "sources": [
+        {
+          "label": "Tanzania Immigration: e-Visa guidelines",
+          "url": "https://visa.immigration.go.tz/guidelines",
+          "verified": "2026-09-30"
+        }
+      ],
+      "tool": "https://pixtidy.com/tanzania-evisa-photo"
+    },
+    {
+      "id": "ethiopia-evisa",
+      "country": "ET",
+      "country_name": "Ethiopia",
+      "document": "e-Visa",
+      "print_size_mm": {
+        "width": 50.8,
+        "height": 50.8
+      },
+      "digital": {
+        "width_px": 600,
+        "height_px": 600,
+        "format": "jpeg",
+        "min_bytes": null,
+        "max_bytes": 2000000
+      },
+      "head_height_ratio": [
+        0.5,
+        0.69
+      ],
+      "head_height_official": false,
+      "eye_from_bottom_ratio": null,
+      "crown_from_top_ratio": null,
+      "background": {
+        "kind": "white",
+        "description": "White background, clean and not blurred"
+      },
+      "infant_eyes_may_be_closed": false,
+      "rules": [
+        "2×2 inch colour photo, taken in the last 6 months",
+        "White background — not blurred or cluttered",
+        "No selfies: have someone else take it",
+        "No filters or retouching",
+        "JPEG/PNG under 2 MB"
+      ],
+      "sources": [
+        {
+          "label": "Ethiopia e-Visa portal",
+          "url": "https://www.evisa.gov.et/",
+          "verified": "2026-09-30"
+        }
+      ],
+      "tool": "https://pixtidy.com/ethiopia-evisa-photo"
     }
   ]
 }

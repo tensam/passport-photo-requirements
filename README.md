@@ -1,6 +1,6 @@
 # Passport & visa photo requirements (machine-readable)
 
-Official photo specifications for 15 passport and visa documents, as structured JSON: print size, digital pixel size, file-size window, head height and eye position (as a fraction of photo height), background rule, and the official source for each.
+Official photo specifications for 18 passport and visa documents, as structured JSON: print size, digital pixel size, file-size window, head height and eye position (as a fraction of photo height), background rule, and the official source for each.
 
 Maintained by [pixtidy](https://pixtidy.com) — a browser-based passport & visa photo maker that checks photos against these rules. Every value was taken from the linked government page; where an authority publishes no number, the field is marked as not official.
 
@@ -21,6 +21,9 @@ Maintained by [pixtidy](https://pixtidy.com) — a browser-based passport & visa
 | Australia Visa | — | 1200×1600 | 72–3500 KB | 64–78%* | — | light | [source](https://immi.homeaffairs.gov.au/help-text/evidence/Pages/et-h0369.aspx) |
 | New Zealand Passport | — | 1200×1600 | 256–5000 KB | 50–65%* | — | light | [source](https://www.passports.govt.nz/passport-photos) |
 | Nigeria Passport | — | 600×800 | 72–2000 KB | 50–69% | 56–69% | white | [source](https://passport.immigration.gov.ng/) |
+| Pakistan Visa | 35×45 mm | 413×531 | ≤60 KB | 70–80% | — | white | [source](https://visa.nadra.gov.pk/download/photograph-guidelines/) |
+| Tanzania e-Visa | — | 413×531 | ≤500 KB | 60–75%* | — | light | [source](https://visa.immigration.go.tz/guidelines) |
+| Ethiopia e-Visa | 50.8×50.8 mm | 600×600 | ≤2000 KB | 50–69%* | — | white | [source](https://www.evisa.gov.et/) |
 
 \* No official number — recommended framing (head and shoulders visible).
 
