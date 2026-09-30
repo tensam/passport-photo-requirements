@@ -1,6 +1,6 @@
 # Passport & visa photo requirements (machine-readable)
 
-Official photo specifications for 18 passport and visa documents, as structured JSON: print size, file-size window, head height and eye position (as a fraction of photo height), background rule, the official rules as quoted text, and the official source for each. `pixtidy_output` is the pixel size pixtidy exports within the official limits; it is not an official value.
+Official photo specifications for 19 passport and visa documents, as structured JSON: print size, file-size window, head height and eye position (as a fraction of photo height), background rule, the official rules as quoted text, and the official source for each. `pixtidy_output` is the pixel size pixtidy exports within the official limits; it is not an official value.
 
 Maintained by [pixtidy](https://pixtidy.com) — a browser-based passport & visa photo maker that checks photos against these rules. Every value was taken from the linked government page; where an authority publishes no number, the field is marked as not official.
 
@@ -23,6 +23,7 @@ Prefer a human-readable version? The same requirements are in one table at [pixt
 | United States Green Card (USCIS) | 50.8×50.8 mm | 600×600 | — | 50–69% | 56–69% | white | [source](https://www.uscis.gov/sites/default/files/document/forms/i-485instr.pdf) |
 | United States Baby Passport | 50.8×50.8 mm | 600×600 | — | 50–69% | 56–69% | white | [source](https://travel.state.gov/content/travel/en/passports/how-apply/photos.html) |
 | UK Visa | — | 1200×1500 | 51–6000 KB | 40–55%* | — | light | [source](https://www.gov.uk/guidance/how-to-take-a-photo-for-a-visa-application-or-permission) |
+| UK ETA | — | 1200×1500 | 51–6000 KB | 40–55%* | — | light | [source](https://www.gov.uk/eta/apply) |
 | India OCI Card | — | 600×600 | ≤200 KB | 50–69% | — | light-not-white | [source](https://ociservices.gov.in/onlineOCI/faq) |
 | India e-Visa | — | 600×600 | 10–1000 KB | 50–69%* | — | light | [source](https://indianvisaonline.gov.in/evisa/tvoa.html) |
 | Schengen Visa | 35×45 mm | 827×1063 | — | 71–80% | — | light | [source](https://home-affairs.ec.europa.eu/document/download/5bb16566-c8c2-4afb-b038-530f488cb72a_en?filename=icao_photograph_guidelines_en.pdf) |

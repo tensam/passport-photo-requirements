@@ -304,6 +304,55 @@
       "tool": "https://pixtidy.com/uk-visa-photo"
     },
     {
+      "id": "uk-eta",
+      "country": "GB",
+      "country_name": "UK",
+      "document": "ETA",
+      "print_size_mm": null,
+      "digital": {
+        "format": "jpeg",
+        "min_bytes": 51200,
+        "max_bytes": 6000000
+      },
+      "head_height_ratio": [
+        0.4,
+        0.55
+      ],
+      "head_height_official": false,
+      "eye_from_bottom_ratio": null,
+      "crown_from_top_ratio": null,
+      "background": {
+        "kind": "light",
+        "description": "Plain light-coloured background"
+      },
+      "infant_eyes_may_be_closed": false,
+      "rules": [
+        "At least 600×750 pixels, JPG, 50 KB to 6 MB",
+        "Show your head, shoulders and upper body",
+        "Plain expression, mouth closed, eyes open",
+        "Avoid glasses; never sunglasses or tinted lenses",
+        "No head covering unless for religious or medical reasons",
+        "Not altered by software or filters, not mirrored or flipped"
+      ],
+      "sources": [
+        {
+          "label": "GOV.UK: apply for an ETA",
+          "url": "https://www.gov.uk/eta/apply",
+          "verified": "2026-10-01"
+        },
+        {
+          "label": "GOV.UK: photos for visa applications",
+          "url": "https://www.gov.uk/guidance/how-to-take-a-photo-for-a-visa-application-or-permission",
+          "verified": "2026-09-30"
+        }
+      ],
+      "pixtidy_output": {
+        "width_px": 1200,
+        "height_px": 1500
+      },
+      "tool": "https://pixtidy.com/uk-eta-photo"
+    },
+    {
       "id": "india-oci",
       "country": "IN",
       "country_name": "India",
