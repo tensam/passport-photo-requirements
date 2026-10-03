@@ -10,15 +10,16 @@ Prefer a human-readable version? The same requirements are in one table at [pixt
 
 [pixtidy](https://pixtidy.com) uses exactly this dataset:
 
-- **Your photo is never uploaded.** Face detection (MediaPipe) and cropping run entirely in the browser; nothing is sent to a server.
-- **Checks every rule before you pay:** head height, eye line, background colour and evenness, lighting, focus, eyes open, mouth closed, and the file-size window (for example 54–240 KB for a US DS-160 photo).
-- **No retouching or AI edits**, because officials reject altered photos. It only crops, levels and resizes.
-- Covers all documents in the table below (US passport, DS-160 visa, green card, Schengen 35×45 mm, UK visa, India OCI, China visa and more), in English, Spanish, Portuguese and French, with a 4×6 print sheet.
+- Your photo is never uploaded. Face detection (MediaPipe) and cropping run entirely in the browser; nothing is sent to a server.
+- Checks every rule before you pay: head height, eye line, background colour and evenness, lighting, focus, eyes open, mouth closed, and the file-size window (for example 54–240 KB for a US DS-160 photo).
+- No retouching or AI edits, because officials reject altered photos. It only crops, levels and resizes.
+- Covers all documents in the table below (US passport, DS-160 visa, green card, Schengen 35×45 mm, UK visa, India OCI, China visa and more), in English, Spanish, Portuguese, French, German and Italian, with a 4×6 print sheet.
+- Already have a photo? Check it for free, no sign-up: [US passport](https://pixtidy.com/passport-photo-checker) · [US visa (DS-160)](https://pixtidy.com/us-visa-photo-checker) · [en español](https://pixtidy.com/es/verificador-foto-visa-pasaporte) · [em português](https://pixtidy.com/pt/verificador-foto-visto-passaporte) · [en français](https://pixtidy.com/fr/verificateur-photo-visa-passeport) · [auf Deutsch](https://pixtidy.com/de/foto-pruefen-usa-visum) · [in italiano](https://pixtidy.com/it/verifica-foto-visto-usa).
 
 | Document | Print | pixtidy output (px)† | File size | Head height | Eye line from bottom | Background | Source |
 |---|---|---|---|---|---|---|---|
 | United States Passport | 50.8×50.8 mm | 600×600 | — | 50–69% | 56–69% | white | [source](https://travel.state.gov/content/travel/en/passports/how-apply/photos.html) |
-| United States Passport Online Renewal | — | 1200×1200 | 55–10000 KB | 45–60%* | — | white | [source](https://travel.state.gov/content/travel/en/passports/how-apply/online-renewal-photo.html) |
+| United States Passport Online Renewal | — | 1200×1200 | 55–10000 KB | 45–60%* | — | white | [source](https://travel.state.gov/en/passports/renew-replace/online/upload-digital-photo.html) |
 | United States Visa (DS-160) | 50.8×50.8 mm | 600×600 | 54–240 KB | 50–69% | 56–69% | white | [source](https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/photos/digital-image-requirements.html) |
 | United States Green Card (USCIS) | 50.8×50.8 mm | 600×600 | — | 50–69% | 56–69% | white | [source](https://www.uscis.gov/sites/default/files/document/forms/i-485instr.pdf) |
 | United States Baby Passport | 50.8×50.8 mm | 600×600 | — | 50–69% | 56–69% | white | [source](https://travel.state.gov/content/travel/en/passports/how-apply/photos.html) |

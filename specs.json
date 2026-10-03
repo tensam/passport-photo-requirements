@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30",
+  "updated": "2026-10-03",
   "specs": [
     {
       "id": "us-passport",
@@ -84,13 +84,13 @@
         "Digital file 54 KB – 10 MB (we export JPG)",
         "Head and shoulders centred; leave a little room around your face",
         "Neutral expression or natural smile — no teeth showing",
-        "No glasses; no hat unless for religious or medical reasons",
+        "Remove glasses and anything covering your face, unless for documented religious or medical reasons",
         "Have someone else take it; no filters, retouching or AI"
       ],
       "sources": [
         {
           "label": "State Dept: uploading a digital photo",
-          "url": "https://travel.state.gov/content/travel/en/passports/how-apply/online-renewal-photo.html",
+          "url": "https://travel.state.gov/en/passports/renew-replace/online/upload-digital-photo.html",
           "verified": "2026-09-30"
         }
       ],
@@ -131,9 +131,9 @@
       "infant_eyes_may_be_closed": false,
       "rules": [
         "Taken in the last 6 months",
-        "Neutral expression or natural smile, both eyes open, mouth closed",
+        "Neutral facial expression, both eyes open",
         "Face the camera directly, head not tilted",
-        "No eyeglasses (medical exception needs a signed doctor's note)",
+        "No eyeglasses (rare medical exception needs a statement signed by a medical professional)",
         "No hats or head coverings (religious/medical exceptions need a signed statement)",
         "No headphones, uniforms or camouflage",
         "Not edited with software, filters or AI"
@@ -242,7 +242,7 @@
       "rules": [
         "Lay the baby on a plain white or off-white sheet, or cover a car seat with one",
         "It is okay if a baby's eyes are not entirely open; older children must have eyes open",
-        "No one else in the photo, and no hands or pacifier covering the face",
+        "No other person in the photo; full face visible, not blocked by hands or a pacifier",
         "No shadows on the baby's face",
         "Not edited with software, filters or AI"
       ],
