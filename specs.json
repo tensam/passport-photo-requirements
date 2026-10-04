@@ -39,6 +39,7 @@
         "No headphones, uniforms or camouflage",
         "Not edited with software, filters or AI"
       ],
+      "reuse_note": "Colour, taken in the last 6 months; no photocopies or scans",
       "sources": [
         {
           "label": "State Dept: passport photos",
@@ -87,6 +88,7 @@
         "Remove glasses and anything covering your face, unless for documented religious or medical reasons",
         "Have someone else take it; no filters, retouching or AI"
       ],
+      "reuse_note": "Colour, taken in the last 6 months; digital file",
       "sources": [
         {
           "label": "State Dept: uploading a digital photo",
@@ -138,6 +140,7 @@
         "No headphones, uniforms or camouflage",
         "Not edited with software, filters or AI"
       ],
+      "reuse_note": "Digital file; a print is not enough",
       "sources": [
         {
           "label": "State Dept: digital image requirements",
@@ -192,6 +195,7 @@
         "Face the camera, neutral expression, eyes open",
         "Also used for I-765, I-131 and N-400 (applicants abroad)"
       ],
+      "reuse_note": "Two identical, recent prints; unretouched",
       "sources": [
         {
           "label": "USCIS Form I-485 instructions",
@@ -246,6 +250,7 @@
         "No shadows on the baby's face",
         "Not edited with software, filters or AI"
       ],
+      "reuse_note": "Colour, taken in the last 6 months; no photocopies or scans",
       "sources": [
         {
           "label": "State Dept: passport photos (children)",
@@ -290,6 +295,7 @@
         "No head covering unless for religious or medical reasons",
         "Not altered by software or filters, not mirrored or flipped"
       ],
+      "reuse_note": "Not a scan, and not the same photo as in your passport",
       "sources": [
         {
           "label": "GOV.UK: photos for visa applications",
@@ -334,6 +340,7 @@
         "No head covering unless for religious or medical reasons",
         "Not altered by software or filters, not mirrored or flipped"
       ],
+      "reuse_note": "Digital file for online applications; the app scans your face",
       "sources": [
         {
           "label": "GOV.UK: apply for an ETA",
@@ -383,6 +390,7 @@
         "Head coverings only for religious reasons, face fully visible",
         "No border around the photo"
       ],
+      "reuse_note": "Square; plain light background, not white",
       "sources": [
         {
           "label": "OCI Services FAQ",
@@ -425,6 +433,7 @@
         "Full head from top of hair to bottom of chin, centred",
         "Plain light-coloured or white background, no shadows, no border"
       ],
+      "reuse_note": "Square: crop a 35×45 mm photo first",
       "sources": [
         {
           "label": "Indian Visa Online: e-Visa instructions",
@@ -471,6 +480,7 @@
         "Face centred, sharp and evenly lit",
         "Plain light background with no shadows"
       ],
+      "reuse_note": null,
       "sources": [
         {
           "label": "European Commission: ICAO photo guidelines",
@@ -529,6 +539,7 @@
         "No jewellery, hands, toys or other people in the photo",
         "White or near-white background, no border"
       ],
+      "reuse_note": null,
       "sources": [
         {
           "label": "Chinese Embassy: visa photo requirements",
@@ -570,6 +581,7 @@
         "White background, face straight to the camera",
         "No glasses, no hat"
       ],
+      "reuse_note": "Recent photo, white background",
       "sources": [
         {
           "label": "Vietnam e-Visa portal",
@@ -612,6 +624,7 @@
         "Eyes not covered by sunglasses, tinted lenses, frames or hair; no glare",
         "Plain light-coloured background"
       ],
+      "reuse_note": "Digital file; a print is not enough",
       "sources": [
         {
           "label": "Thai e-Visa (Ministry of Foreign Affairs)",
@@ -655,6 +668,7 @@
         "Religious head coverings allowed with the full face visible",
         "Not a scan of a photo or a photo of a photo"
       ],
+      "reuse_note": "Recent; not a scan or a photo of a photo",
       "sources": [
         {
           "label": "Home Affairs: ImmiAccount photograph help",
@@ -699,6 +713,7 @@
         "Upload a digital copy with the online application; the Chicago consulate also asks for a printed copy on photo-quality paper",
         "Follow the ICAO photograph guidelines: full face, looking at the camera, neutral expression, eyes open"
       ],
+      "reuse_note": null,
       "sources": [
         {
           "label": "Consulate General of Brazil in Miami: e-Visa requirements",
@@ -747,6 +762,7 @@
         "Clear prescription glasses allowed without glare; no sunglasses",
         "Taken in the last 6 months; not edited, filtered or changed with AI"
       ],
+      "reuse_note": "Less than 6 months old; no scans of printed photos",
       "sources": [
         {
           "label": "NZ Passports: passport photos",
@@ -791,6 +807,7 @@
         "Taken in the last 6 months, by someone else if possible (selfies only in the NZeTA app)",
         "No filters, beautification, AI edits or brightness/contrast changes"
       ],
+      "reuse_note": "Within 6 months; not a photo of a photo",
       "sources": [
         {
           "label": "Immigration NZ: acceptable photos for a visa or NZeTA",
@@ -842,6 +859,7 @@
         "Plain white background, even lighting, no shadows",
         "Do not cut out or replace the background with editing tools"
       ],
+      "reuse_note": null,
       "sources": [
         {
           "label": "Nigeria Immigration Service: passport portal",
@@ -888,6 +906,7 @@
         "Head coverings allowed if chin, forehead and both face edges are visible",
         "JPEG kept under 60 KB (the stricter of NADRA's two published limits)"
       ],
+      "reuse_note": "No more than 6 months old",
       "sources": [
         {
           "label": "NADRA: photograph guidelines",
@@ -931,6 +950,7 @@
         "Glasses allowed if you normally wear them",
         "Head coverings only for religious reasons, with chin, forehead and face edges visible"
       ],
+      "reuse_note": null,
       "sources": [
         {
           "label": "Tanzania Immigration: e-Visa guidelines",
@@ -977,6 +997,7 @@
         "No filters or retouching",
         "JPEG/PNG under 2 MB"
       ],
+      "reuse_note": "Taken within the last 6 months",
       "sources": [
         {
           "label": "Ethiopia e-Visa portal",
