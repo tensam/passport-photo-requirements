@@ -800,7 +800,7 @@
       },
       "infant_eyes_may_be_closed": false,
       "rules": [
-        "JPG, 3:4 portrait, 900×1200 to 2250×3000 pixels, 500 KB to 3 MB",
+        "JPG, 3:4 portrait, 900×1200 to 2250×3000 pixels, 512 KB to 3.14 MB",
         "Face covers 70–80% of the image, centred, looking straight at the camera",
         "Neutral expression, mouth closed, eyes open; hair not covering face or ears",
         "Prescription glasses allowed if clear, untinted and without glare",
